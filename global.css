@@ -1,10 +1,64 @@
 @charset "utf-8";
 
- aside {
-    float:right;
-    width:150px;
-    margin:0 0 15px 25px;
-    font-size:smaller;
-    border-bottom:2px solid #717b32;
-    border-left:1px solid #717b32;
- }
+/*
+   Welcome to global.css, the most cursed stylesheet ever written.
+   I used codeium for this because I really don't like css
+   palette: #68a424 #8d995b #aa8b7f #c5799e #dd61bb
+   idk if I want to use it tho. I used the first color as the border color, we'll see
+*/
+
+aside {
+	float: right;
+	width: 150px;
+	margin: 0 0 15px 25px;
+	font-size: smaller;
+	border-bottom: 2px solid #68a424;
+	border-left: 1px solid #68a424;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+p {
+	text-align: justify;
+	text-justify: inter-word;
+	line-height: 1.5em;
+	margin-bottom: 1em;
+}
+footer {
+	clear: both;
+	font-size: smaller;
+	text-align: center;
+	margin-top: 3em;
+	border-top: 1px solid #68a424;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	color: #68a424;
+	background-color: #fff;
+	font-style: italic;
+	font-weight: bold;
+}
+header {
+   margin-bottom: 2em;
+   text-align: center;
+   float: left;
+   width: 100%;
+}
+header p {
+   text-align: center;
+   font-style: bold;
+   font-weight: bold;
+}
+h1 {
+   margin-top: 0.5em;
+   margin-bottom: 0.5em;
+   font-size: 1.5em;
+}
+h2 {
+   margin-top: 0.5em;
+   margin-bottom: 0.5em;
+   font-size: 1.3em;
+}
+h3 {
+   margin-top: 0.5em;
+   margin-bottom: 0.5em;
+   font-size: 1.1em;
+}
