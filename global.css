@@ -68,8 +68,10 @@ h3 {
 }
 #mainContent {
    background-color: #3b3b3b;
-   font-family: Arial, Helvetica, sans-serif;
    color: #9a9a9a;
    background-image: url(resources/images/pattern.png);
    background-repeat: repeat;
+}
+body {
+   font-family: Arial, Helvetica, sans-serif;
 }
