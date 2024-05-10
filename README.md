@@ -14,7 +14,7 @@ Why did I publish this website? Well, mostly as a joke. Maybe if more people sta
 
 ## Current State
 
-This website has 3 entries so far. There's a home page as well, and minor CSS for styling `aside`s. Other than that, it's fairly empty right now, but it will grow in time!
+This website has 3 entries so far. There's a home page as well, and a stylesheet I totally made myself. Other than that, it's fairly empty right now, but it will grow in time!
 
 ## Contributing
 
