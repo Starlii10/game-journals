@@ -8,7 +8,7 @@ This website is for me to share my thoughts and findings in video games I've pla
 
 ## Why?
 
-I've always wanted to make a personal website like this. I'm not very good at it (I'm just finishing up a web development course), but I can do basic HTML and CSS, maybe some JavaScript if I really feel like it.
+I've always wanted to make a personal website like this. I'm not very good at it (I've just finished up a web development course), but I can do basic HTML and CSS, maybe some JavaScript if I really feel like it.
 
 Why did I publish this website? Well, mostly as a joke. Maybe if more people start viewing this site I'll work on it some more.
 
