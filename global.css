@@ -43,6 +43,8 @@ header {
    border-bottom: 10px solid #68a424;
    padding-bottom: 1.5em;
    padding-top: 0.5em;
+   background-image: none;
+   color: #9a9a9a;
 }
 header p {
    text-align: center;
